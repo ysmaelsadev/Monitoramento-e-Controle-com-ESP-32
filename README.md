@@ -73,3 +73,6 @@ O sistema realiza:
   
   ```cpp
   percentage = 100 - (sensorValue / 4095.0) * 100.0;
+# 👨‍💻 Autor
+
+Ysmael Sa
