@@ -1,21 +1,17 @@
-# 🌱 Controle de Iluminação Inteligente com ESP32
+# MONITORAMENTO COM ESP32
+Esta atividade visa avaliar a capacidade de integração de componentes de hardware e o
+desenvolvimento de lógica de programação para sistemas embarcados, focando no fluxo
+fundamental: Entrada, Processamento e Saída.
 
-Este projeto implementa um sistema embarcado utilizando o ESP32 para monitorar a luminosidade ambiente e controlar automaticamente um LED, além de exibir informações em um display LCD I2C.
-
-O sistema segue o fluxo:
-👉 Entrada → Processamento → Saída
-
----
-
-# 🎯 Objetivos da Atividade
-
-- Leitura de sensor analógico (LDR)
-- Uso de entrada digital (botão)
-- Processamento de dados (conversão para %)
-- Controle de saída (LED)
-- Exibição de dados em LCD I2C
-
----
+1. Objetivos da Atividade
+· Demonstrar domínio sobre leitura de entradas analógicas (sensores) e digitais
+(interrupções/botões).
+· Implementar lógica de processamento para conversão de grandezas e controle de
+estados.
+· Validar o uso de saídas de dados via atuadores (LED/PWM) e interface visual
+(LCD I2C).
+· Utilizar o ambiente de desenvolvimento (VSCode/PlatformIO ou Wokwi) para
+simulação e depuração.
 
 # 📚 Parte I – Avaliação Teórica
 
